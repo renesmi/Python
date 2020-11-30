@@ -1,5 +1,5 @@
 text = open('text2.txt','r')
-￦count = 0
+#count = 0
 
 while True:
 	#count += 1
