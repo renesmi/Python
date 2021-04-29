@@ -1,0 +1,13 @@
+#참고 자료 : https://blog.myungseokang.dev/posts/python-basic-grammar1
+tuple 
+tp1=()
+tp2=(1,)
+#1개만 값으로 가질 때는 콤마가 와야한다. 
+  -괄호로 선언한다.
+  -값의 변화가 불가능하다
+  -list는 가능
+  -슬라이싱, 병합은 가능
+print(tp1[1:])
+print(tp2*2)  #(4,5,6,4,5,6)
+
+#Dictionary
