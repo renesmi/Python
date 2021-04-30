@@ -11,3 +11,6 @@ print(tp1[1:])
 print(tp2*2)  #(4,5,6,4,5,6)
 
 #Dictionary
+키:값 쌍으로 이루어짐
+dic1=dict()
+dic={}  
