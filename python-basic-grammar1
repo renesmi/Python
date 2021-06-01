@@ -26,3 +26,29 @@ s = set([1,3,5,7])
 def 함수명():
   return ssss
   
+  Window 명령어
+  attrib 파일 속성 변경
+  call 한 프로그램에서 다른 프로그램 호출
+  chkdsk 디스크 검사 후 상태 보고서표기
+  cls 화면 디움
+  cmd 
+  comp 파일 비교 
+  distpart 디스크 파티션 속성 표시 구성
+  exit 명령 인터프리터 종료 
+
+[Linux/Unix 명령어]
+최상위 유저 #
+일반 유저 $
+
+uname -a 시스템의 모든 정보 확인
+uname -r 운영체제 배포 버전 확인
+cat 파일의 내용을 출력
+uptime 시스템의 가동 시간과 현재 사용자 수 평균 부하량 등을 확인
+\
+id:사용자의 로그인명 id
+last: 시스템 부팅부터 현재까지의 모든 사용자의 로그인과 로그아웃 정보를 출력 
+who
+
+ls:현재 디렉터리의 파일 및 폴더 출력
+pwd: 현재 작업 디렉터리의 절대 경로를 출력
+rm/ cp/  mv /rsync 
